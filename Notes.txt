@@ -1,0 +1,1 @@
+Take the z values from UpdateZ(), and pass it to the contour plot from matplotlib. X and Ys are meshgrids.
